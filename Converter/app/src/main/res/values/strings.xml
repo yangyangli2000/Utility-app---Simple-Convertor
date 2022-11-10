@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="binary">Binary</string>
+    <string name="input">Input</string>
+    <string name="hexadecimal">Hexadecimal</string>
+    <string name="decimal">Decimal</string>
+    <string name="convert">Convert</string>
+    <string name="clear">clear</string>
+    <string name="input_type">Input_type</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="setting">Setting</string>
+    <string name="octal">Octal</string>
+
+    <string name="_10_15">10 – 15</string>
+    <string name="desc">Please enter the number between 10–15, as this will change the Font Size</string>
+    <string name="done">Done</string>
+    <string name="invalidInput">Invalid_Input</string>
+
+    <string-array name="data">
+        <item>Binary</item>
+        <item>Octal</item>
+        <item>Decimal</item>
+        <item>Hexadecimal</item>
+    </string-array>
+</resources>
